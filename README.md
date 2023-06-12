@@ -1,18 +1,14 @@
-<h1 align="center">Portfolio Web Segura Lucas </h1>
-Es el desarrollo de una aplicacion web full stack la cual muestra infromacion persona, estudios, experiencia laboral, habilidades y proyectos, la misma permite hacer tanto el alta como la modificacion y la baja de los datos anteriormente mencionados.
+<h1 align="center"> Trabajo practico final de Laboratorio 1 </h1>
+Nuestro proyecto consiste en desarrollar una aplicación para ayudar a la empresa FraveMax en la gestión de su inventario de electrodomésticos. La aplicación permitirá a los usuarios realizar diversas tareas, como agregar nuevos productos, registrar ventas a clientes, administrar información de clientes, realizar pedidos a proveedores y consultar el inventario y las ventas realizadas.
 <br />
-<a href="https://github.com/Elseguura/FrontEnd-AP"><strong>REPOSITORIO DEL PROYECTO FRONT-END</strong></a>
+<h2 align="center">Datos a tener en cuenta...:</h2>
+1- La base de datos se fue actualizando a medida que desarrollabamos el proyecto para una mejor funcionalidad. La version mas actualizada esta en el mismo repositorio.
+2- El UML actualizado del proyecto tambien se encuentra en el mismo repositorio.
 <br/>
+<h2 align="center">Creado por:</h2>
 <br/>
-<a href="https://github.com/Elseguura/BackEnd-AP"><strong>REPOSITORIO DEL PROYECTO BACK-END</strong></a>
-<br/>
-<h2 align="center">Sobre el proyecto:</h2>
-El proyecto "Argentina Programa: Segunda Etapa #YoProgramo" me formó como programador para asi poder crear un portfolio web full stack. Este portfolio muestra mi información personal, estudios, experiencia laboral, conocimientos y habilidades en una interfaz visualmente atractiva. Es una herramienta útil para destacarme ante empleadores o clientes y me permitió poner en práctica mis habilidades y conocimientos en un proyecto real.
-<br/>
-<h2 align="center">Creado con:</h2>
-<br/>
-<h6 align="center">ANGULAR<h6/>
-<h6 align="center">BOOTSTRAP<h6/>
-<h6 align="center">GIT<h6/>
-<h6 align="center">FIREBASE<h6/>
+<h6 align="center">Mauricio Rivero<h6/>
+<h6 align="center">Jonathan David Romero<h6/>
+<h6 align="center">Lucas Segura<h6/>
+<h6 align="center">Arian Simon Sara<h6/>
 <br/>
